@@ -10,7 +10,7 @@
 git init
 git status
 git add --all
-git commit -m "comentario"
+git commit -m "comentario```
 
 
 # Perfil Profesional
