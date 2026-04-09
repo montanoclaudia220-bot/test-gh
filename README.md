@@ -6,7 +6,7 @@
 - Elemento 3
 
 #Perfil Profesional
-
+![Foto](Claudia.jpeg)
 
 Estudiante de Ingeniería de Sistemas en noveno semestre, con conocimientos en programación en Java y Python. Me caracterizo por tener afinidad por el análisis numérico y las áreas relacionadas con negocios, destacándome en asignaturas enfocadas en auditoría y gestión.
 
